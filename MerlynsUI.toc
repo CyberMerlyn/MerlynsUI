@@ -1,0 +1,22 @@
+## Interface: 10.1.7
+## Title: |cff00ccffMerlynsUI|r
+## Author: Merlyn
+## Version: 1.0
+## Notes: |cff00ccffA Magical Mysterious Mystical Minimalistic UI|r
+
+## SavedVariables: BagBarDB, MicroMenuDB, QuickJoinToastButtonDB,
+BagTweaks.lua
+BagBarDB.lua 
+MicroMenu.lua
+ChatFrames.lua
+MiniMap.lua
+ObjectiveTracker.lua
+RaidFrames.lua
+PartyFrames.lua
+BuffFrame.lua
+DebuffFrame.lua
+EncounterBar.lua
+QueueStatus.lua
+ArenaFrame.lua
+DurabilityFrame.lua
+Everything.lua
